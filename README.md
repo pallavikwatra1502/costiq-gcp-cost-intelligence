@@ -1,40 +1,104 @@
-# CostIQ — GCP Cloud Cost Intelligence Platform
+# CostIQ – GCP Cost Intelligence Platform
 
-CostIQ is a GCP FinOps and data engineering project that analyses cloud billing, BigQuery utilisation, Dataflow jobs and storage metadata to detect cost waste, forecast budget risk, generate owner alerts and provide official guidance-backed optimisation recommendations.
+Live Demo: https://costiq-gcp-cost-intelligence.streamlit.app/
 
-## Live Demo
+## Overview
 
-Add your Streamlit URL here after deployment.
+CostIQ is an AI-powered FinOps and Cloud Cost Intelligence platform designed to help organizations monitor, optimize and govern Google Cloud Platform spending.
+
+The platform combines cloud cost analytics, budget monitoring, anomaly detection and AI-driven optimization recommendations into a single operational dashboard.
 
 ## Key Features
 
-- Executive cloud cost dashboard
-- Service and project-level cost explorer
-- BigQuery query cost optimiser
-- BigQuery table storage explorer
-- Dataflow job cost and runtime optimiser
-- Budget guardrails and forecasted overspend detection
-- Real email alert workflow using Gmail App Password
-- Recommendation engine with official Google Cloud documentation links
-- Ask CostIQ assistant for cost troubleshooting
-- Cost anomaly detection
-- Sample GCP-style billing and engineering datasets
+### Cost Explorer
 
-## Run Locally
+* Analyze cloud spend across services
+* Service-wise cost breakdown
+* Historical cost trends
+* Resource utilization insights
 
-```bash
-pip install -r requirements.txt
-streamlit run app/main.py 
-```
+### BigQuery Optimization
 
-## Streamlit Cloud Deployment
+* Query cost analysis
+* Storage optimization recommendations
+* Dataset-level visibility
+* Cost-saving opportunities
 
-Main file path:
+### Dataflow Optimization
 
-```text
-app/main.py
-```
+* Job performance monitoring
+* Resource utilization analysis
+* Pipeline efficiency recommendations
+* Cost-to-performance insights
 
-## Email Security Note
+### Budget Guardrails
 
-The real email alert feature uses Gmail SMTP and an App Password. Do not hardcode credentials in code or commit them to GitHub.
+* Monthly budget management
+* Budget threshold monitoring
+* Overspend detection
+* Alert generation workflows
+
+### Cost Anomaly Detection
+
+* Detect unusual spending patterns
+* Identify unexpected cost spikes
+* Service-level anomaly analysis
+* Risk scoring
+
+### AI Recommendation Engine
+
+* Automated optimization suggestions
+* Cost reduction opportunities
+* Architecture improvement guidance
+* FinOps best practices
+
+### Ask CostIQ
+
+* Interactive assistant for cost optimization
+* GCP cost management guidance
+* BigQuery optimization recommendations
+* Cloud architecture suggestions
+
+## Architecture
+
+GCP Billing Export
+→ CostIQ Analytics Engine
+→ Budget Monitoring
+→ Cost Optimization Layer
+→ Recommendation Engine
+→ Cost Intelligence Dashboard
+
+## Technology Stack
+
+* Python
+* Streamlit
+* Pandas
+* Plotly
+* NumPy
+* Google Cloud Platform
+* FinOps Concepts
+* Cost Optimization Analytics
+
+## Use Cases
+
+* Cloud Cost Monitoring
+* FinOps Governance
+* Budget Management
+* BigQuery Cost Optimization
+* Dataflow Cost Analysis
+* Cost Anomaly Detection
+* Cloud Financial Operations
+
+## Future Enhancements
+
+* Cloud Billing API Integration
+* BigQuery Metadata Integration
+* Automated Budget Notifications
+* Slack / Teams Integration
+* Multi-Cloud Cost Analytics
+* Forecasting Models
+
+## Author
+
+Pallavi Kwatra
+Senior Data Engineer
