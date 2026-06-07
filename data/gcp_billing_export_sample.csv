@@ -1,0 +1,246 @@
+usage_date,project_id,owner_team,owner_email,monthly_budget_gbp,service,sku,region,cost_gbp
+2026-06-01,data-platform-prod,Data Platform,data.owner@company.com,18000,BigQuery,Storage,us-central1,211.68
+2026-06-01,data-platform-prod,Data Platform,data.owner@company.com,18000,Dataflow,Network,europe-west2,120.83
+2026-06-01,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Storage,Logging,global,138.69
+2026-06-01,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Composer,Analysis,europe-west1,149.71
+2026-06-01,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Logging,Storage,global,96.6
+2026-06-01,data-platform-prod,Data Platform,data.owner@company.com,18000,Pub/Sub,Analysis,europe-west2,46.1
+2026-06-01,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Functions,Network,global,25.1
+2026-06-01,security-analytics-prod,Cloud Security,security.owner@company.com,14000,BigQuery,Storage,global,105.74
+2026-06-01,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Dataflow,Logging,europe-west1,462.88
+2026-06-01,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Storage,Orchestration,global,24.01
+2026-06-01,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Composer,Logging,global,75.51
+2026-06-01,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Logging,Compute,global,113.78
+2026-06-01,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Pub/Sub,Logging,europe-west1,46.98
+2026-06-01,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Functions,Storage,global,5.89
+2026-06-01,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,BigQuery,Streaming,europe-west2,381.86
+2026-06-01,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Dataflow,Compute,europe-west1,204.52
+2026-06-01,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Storage,Compute,europe-west1,114.03
+2026-06-01,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Composer,Logging,global,153.81
+2026-06-01,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Logging,Storage,europe-west2,118.07
+2026-06-01,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Pub/Sub,Network,europe-west1,25.88
+2026-06-01,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Functions,Storage,global,32.31
+2026-06-01,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,BigQuery,Compute,global,260.77
+2026-06-01,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Dataflow,Logging,europe-west1,162.21
+2026-06-01,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Storage,Orchestration,global,112.32
+2026-06-01,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Composer,Orchestration,us-central1,41.27
+2026-06-01,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Logging,Compute,global,116.46
+2026-06-01,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Pub/Sub,Storage,global,13.41
+2026-06-01,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Functions,Compute,us-central1,10.19
+2026-06-01,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,BigQuery,Orchestration,global,474.75
+2026-06-01,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Dataflow,Storage,global,256.31
+2026-06-01,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Storage,Orchestration,global,57.62
+2026-06-01,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Composer,Compute,us-central1,140.78
+2026-06-01,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Logging,Orchestration,us-central1,99.7
+2026-06-01,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Pub/Sub,Network,europe-west1,27.05
+2026-06-01,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Functions,Storage,europe-west1,16.26
+2026-06-02,data-platform-prod,Data Platform,data.owner@company.com,18000,BigQuery,Network,europe-west1,667.66
+2026-06-02,data-platform-prod,Data Platform,data.owner@company.com,18000,Dataflow,Analysis,europe-west1,324.95
+2026-06-02,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Storage,Network,europe-west1,67.39
+2026-06-02,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Composer,Streaming,us-central1,55.62
+2026-06-02,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Logging,Storage,us-central1,115.87
+2026-06-02,data-platform-prod,Data Platform,data.owner@company.com,18000,Pub/Sub,Storage,us-central1,18.18
+2026-06-02,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Functions,Storage,us-central1,28.03
+2026-06-02,security-analytics-prod,Cloud Security,security.owner@company.com,14000,BigQuery,Compute,global,163.43
+2026-06-02,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Dataflow,Streaming,europe-west1,286.79
+2026-06-02,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Storage,Logging,europe-west1,71.82
+2026-06-02,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Composer,Logging,global,110.57
+2026-06-02,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Logging,Logging,us-central1,101.77
+2026-06-02,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Pub/Sub,Compute,us-central1,22.18
+2026-06-02,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Functions,Compute,global,5.31
+2026-06-02,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,BigQuery,Network,europe-west2,92.86
+2026-06-02,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Dataflow,Streaming,europe-west1,101.76
+2026-06-02,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Storage,Network,us-central1,32.67
+2026-06-02,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Composer,Orchestration,global,81.57
+2026-06-02,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Logging,Network,europe-west1,104.64
+2026-06-02,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Pub/Sub,Compute,global,36.22
+2026-06-02,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Functions,Analysis,us-central1,13.04
+2026-06-02,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,BigQuery,Network,us-central1,398.66
+2026-06-02,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Dataflow,Storage,europe-west2,181.3
+2026-06-02,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Storage,Network,europe-west2,59.14
+2026-06-02,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Composer,Compute,europe-west2,123.07
+2026-06-02,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Logging,Streaming,us-central1,22.51
+2026-06-02,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Pub/Sub,Analysis,europe-west1,47.39
+2026-06-02,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Functions,Streaming,europe-west2,11.8
+2026-06-02,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,BigQuery,Storage,europe-west2,267.34
+2026-06-02,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Dataflow,Storage,europe-west2,116.52
+2026-06-02,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Storage,Storage,europe-west1,25.2
+2026-06-02,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Composer,Network,us-central1,58.98
+2026-06-02,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Logging,Storage,europe-west2,45.26
+2026-06-02,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Pub/Sub,Orchestration,europe-west1,30.24
+2026-06-02,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Functions,Logging,europe-west1,39.85
+2026-06-03,data-platform-prod,Data Platform,data.owner@company.com,18000,BigQuery,Network,global,688.63
+2026-06-03,data-platform-prod,Data Platform,data.owner@company.com,18000,Dataflow,Compute,europe-west2,233.26
+2026-06-03,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Storage,Analysis,europe-west2,131.13
+2026-06-03,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Composer,Network,europe-west2,107.38
+2026-06-03,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Logging,Logging,europe-west1,22.3
+2026-06-03,data-platform-prod,Data Platform,data.owner@company.com,18000,Pub/Sub,Analysis,europe-west1,47.78
+2026-06-03,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Functions,Streaming,global,41.91
+2026-06-03,security-analytics-prod,Cloud Security,security.owner@company.com,14000,BigQuery,Analysis,europe-west1,259.29
+2026-06-03,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Dataflow,Analysis,europe-west1,156.54
+2026-06-03,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Storage,Storage,global,96.67
+2026-06-03,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Composer,Network,global,103.7
+2026-06-03,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Logging,Network,europe-west1,390.99
+2026-06-03,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Pub/Sub,Logging,europe-west1,31.55
+2026-06-03,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Functions,Network,us-central1,25.92
+2026-06-03,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,BigQuery,Logging,europe-west1,154.94
+2026-06-03,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Dataflow,Compute,us-central1,200.18
+2026-06-03,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Storage,Compute,global,86.49
+2026-06-03,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Composer,Network,europe-west2,70.84
+2026-06-03,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Logging,Storage,global,67.72
+2026-06-03,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Pub/Sub,Network,us-central1,68.39
+2026-06-03,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Functions,Orchestration,europe-west1,8.21
+2026-06-03,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,BigQuery,Compute,europe-west1,254.38
+2026-06-03,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Dataflow,Storage,us-central1,119.9
+2026-06-03,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Storage,Analysis,us-central1,51.38
+2026-06-03,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Composer,Storage,us-central1,52.92
+2026-06-03,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Logging,Network,europe-west2,71.27
+2026-06-03,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Pub/Sub,Logging,europe-west2,38.4
+2026-06-03,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Functions,Analysis,us-central1,6.9
+2026-06-03,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,BigQuery,Logging,us-central1,316.32
+2026-06-03,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Dataflow,Streaming,europe-west2,328.91
+2026-06-03,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Storage,Logging,us-central1,123.38
+2026-06-03,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Composer,Streaming,europe-west2,141.8
+2026-06-03,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Logging,Logging,europe-west2,58.46
+2026-06-03,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Pub/Sub,Compute,europe-west1,61.98
+2026-06-03,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Functions,Analysis,europe-west1,15.75
+2026-06-04,data-platform-prod,Data Platform,data.owner@company.com,18000,BigQuery,Network,us-central1,735.86
+2026-06-04,data-platform-prod,Data Platform,data.owner@company.com,18000,Dataflow,Compute,europe-west2,354.87
+2026-06-04,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Storage,Analysis,us-central1,21.3
+2026-06-04,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Composer,Analysis,global,68.11
+2026-06-04,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Logging,Storage,global,118.78
+2026-06-04,data-platform-prod,Data Platform,data.owner@company.com,18000,Pub/Sub,Orchestration,europe-west2,61.6
+2026-06-04,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Functions,Network,europe-west2,20.1
+2026-06-04,security-analytics-prod,Cloud Security,security.owner@company.com,14000,BigQuery,Network,global,229.69
+2026-06-04,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Dataflow,Logging,us-central1,154.08
+2026-06-04,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Storage,Orchestration,global,73.24
+2026-06-04,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Composer,Compute,europe-west2,124.93
+2026-06-04,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Logging,Compute,europe-west1,131.34
+2026-06-04,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Pub/Sub,Streaming,europe-west2,51.18
+2026-06-04,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Functions,Analysis,us-central1,30.38
+2026-06-04,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,BigQuery,Logging,europe-west2,181.6
+2026-06-04,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Dataflow,Compute,us-central1,161.42
+2026-06-04,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Storage,Compute,europe-west1,122.55
+2026-06-04,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Composer,Storage,global,131.31
+2026-06-04,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Logging,Compute,europe-west1,113.01
+2026-06-04,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Pub/Sub,Storage,europe-west2,37.15
+2026-06-04,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Functions,Network,us-central1,32.46
+2026-06-04,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,BigQuery,Logging,europe-west2,265.96
+2026-06-04,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Dataflow,Analysis,europe-west1,118.8
+2026-06-04,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Storage,Orchestration,global,39.59
+2026-06-04,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Composer,Analysis,europe-west2,111.41
+2026-06-04,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Logging,Analysis,us-central1,16.6
+2026-06-04,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Pub/Sub,Storage,us-central1,46.65
+2026-06-04,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Functions,Storage,us-central1,46.65
+2026-06-04,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,BigQuery,Analysis,europe-west1,405.16
+2026-06-04,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Dataflow,Analysis,global,67.82
+2026-06-04,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Storage,Analysis,europe-west1,114.35
+2026-06-04,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Composer,Storage,us-central1,123.03
+2026-06-04,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Logging,Logging,global,39.14
+2026-06-04,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Pub/Sub,Orchestration,us-central1,14.53
+2026-06-04,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Functions,Logging,europe-west2,13.37
+2026-06-05,data-platform-prod,Data Platform,data.owner@company.com,18000,BigQuery,Compute,global,534.54
+2026-06-05,data-platform-prod,Data Platform,data.owner@company.com,18000,Dataflow,Orchestration,global,259.32
+2026-06-05,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Storage,Streaming,europe-west1,98.47
+2026-06-05,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Composer,Orchestration,europe-west2,135.33
+2026-06-05,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Logging,Compute,global,103.68
+2026-06-05,data-platform-prod,Data Platform,data.owner@company.com,18000,Pub/Sub,Analysis,us-central1,46.7
+2026-06-05,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Functions,Logging,us-central1,7.94
+2026-06-05,security-analytics-prod,Cloud Security,security.owner@company.com,14000,BigQuery,Logging,us-central1,322.86
+2026-06-05,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Dataflow,Compute,europe-west1,501.25
+2026-06-05,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Storage,Storage,global,130.95
+2026-06-05,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Composer,Streaming,global,139.18
+2026-06-05,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Logging,Streaming,global,108.55
+2026-06-05,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Pub/Sub,Analysis,global,60.28
+2026-06-05,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Functions,Streaming,global,50.72
+2026-06-05,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,BigQuery,Analysis,europe-west2,96.76
+2026-06-05,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Dataflow,Orchestration,europe-west1,335.7
+2026-06-05,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Storage,Analysis,europe-west1,41.91
+2026-06-05,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Composer,Logging,europe-west2,127.74
+2026-06-05,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Logging,Compute,europe-west1,96.71
+2026-06-05,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Pub/Sub,Network,europe-west2,21.39
+2026-06-05,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Functions,Compute,europe-west2,38.1
+2026-06-05,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,BigQuery,Compute,us-central1,308.41
+2026-06-05,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Dataflow,Storage,europe-west1,910.95
+2026-06-05,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Storage,Analysis,europe-west2,108.09
+2026-06-05,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Composer,Logging,us-central1,114.61
+2026-06-05,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Logging,Logging,global,115.54
+2026-06-05,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Pub/Sub,Network,europe-west1,8.48
+2026-06-05,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Functions,Orchestration,europe-west2,36.44
+2026-06-05,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,BigQuery,Analysis,us-central1,190.89
+2026-06-05,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Dataflow,Compute,us-central1,460.5
+2026-06-05,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Storage,Logging,europe-west2,75.61
+2026-06-05,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Composer,Logging,europe-west1,77.08
+2026-06-05,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Logging,Network,europe-west2,41.98
+2026-06-05,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Pub/Sub,Storage,europe-west1,51.26
+2026-06-05,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Functions,Compute,europe-west2,38.93
+2026-06-06,data-platform-prod,Data Platform,data.owner@company.com,18000,BigQuery,Logging,europe-west2,387.86
+2026-06-06,data-platform-prod,Data Platform,data.owner@company.com,18000,Dataflow,Network,global,208.99
+2026-06-06,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Storage,Logging,europe-west1,99.47
+2026-06-06,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Composer,Orchestration,europe-west2,58.49
+2026-06-06,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Logging,Compute,global,46.8
+2026-06-06,data-platform-prod,Data Platform,data.owner@company.com,18000,Pub/Sub,Orchestration,europe-west1,69.9
+2026-06-06,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Functions,Network,us-central1,34.29
+2026-06-06,security-analytics-prod,Cloud Security,security.owner@company.com,14000,BigQuery,Network,us-central1,191.45
+2026-06-06,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Dataflow,Streaming,europe-west1,848.18
+2026-06-06,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Storage,Analysis,us-central1,67.86
+2026-06-06,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Composer,Compute,europe-west1,107.98
+2026-06-06,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Logging,Analysis,europe-west1,97.85
+2026-06-06,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Pub/Sub,Logging,global,51.95
+2026-06-06,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Functions,Network,europe-west1,14.36
+2026-06-06,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,BigQuery,Compute,global,122.95
+2026-06-06,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Dataflow,Storage,europe-west1,135.88
+2026-06-06,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Storage,Analysis,global,114.9
+2026-06-06,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Composer,Network,europe-west2,46.62
+2026-06-06,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Logging,Network,us-central1,67.96
+2026-06-06,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Pub/Sub,Logging,us-central1,13.92
+2026-06-06,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Functions,Logging,europe-west2,21.65
+2026-06-06,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,BigQuery,Network,us-central1,438.83
+2026-06-06,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Dataflow,Logging,us-central1,80.02
+2026-06-06,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Storage,Storage,europe-west1,94.36
+2026-06-06,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Composer,Compute,europe-west2,139.39
+2026-06-06,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Logging,Network,europe-west1,41.66
+2026-06-06,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Pub/Sub,Logging,europe-west2,59.54
+2026-06-06,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Functions,Analysis,global,26.36
+2026-06-06,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,BigQuery,Storage,global,401.36
+2026-06-06,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Dataflow,Analysis,global,191.49
+2026-06-06,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Storage,Network,global,92.9
+2026-06-06,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Composer,Compute,europe-west2,113.94
+2026-06-06,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Logging,Compute,europe-west2,54.22
+2026-06-06,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Pub/Sub,Streaming,europe-west2,20.83
+2026-06-06,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Functions,Orchestration,us-central1,12.11
+2026-06-07,data-platform-prod,Data Platform,data.owner@company.com,18000,BigQuery,Analysis,europe-west2,238.89
+2026-06-07,data-platform-prod,Data Platform,data.owner@company.com,18000,Dataflow,Analysis,europe-west1,140.11
+2026-06-07,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Storage,Compute,europe-west1,124.58
+2026-06-07,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Composer,Analysis,global,66.29
+2026-06-07,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Logging,Orchestration,europe-west2,49.22
+2026-06-07,data-platform-prod,Data Platform,data.owner@company.com,18000,Pub/Sub,Logging,us-central1,30.44
+2026-06-07,data-platform-prod,Data Platform,data.owner@company.com,18000,Cloud Functions,Streaming,global,41.59
+2026-06-07,security-analytics-prod,Cloud Security,security.owner@company.com,14000,BigQuery,Orchestration,europe-west2,280.67
+2026-06-07,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Dataflow,Analysis,europe-west1,178.59
+2026-06-07,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Storage,Orchestration,europe-west1,126.45
+2026-06-07,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Composer,Streaming,us-central1,59.81
+2026-06-07,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Logging,Orchestration,global,37.43
+2026-06-07,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Pub/Sub,Storage,europe-west1,67.19
+2026-06-07,security-analytics-prod,Cloud Security,security.owner@company.com,14000,Cloud Functions,Network,global,10.65
+2026-06-07,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,BigQuery,Analysis,us-central1,102.5
+2026-06-07,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Dataflow,Logging,global,134.04
+2026-06-07,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Storage,Logging,europe-west1,28.08
+2026-06-07,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Composer,Compute,europe-west2,87.57
+2026-06-07,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Logging,Compute,europe-west1,57.13
+2026-06-07,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Pub/Sub,Orchestration,europe-west1,135.07
+2026-06-07,risk-reporting-prod,Risk Analytics,risk.owner@company.com,9500,Cloud Functions,Storage,europe-west2,6.51
+2026-06-07,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,BigQuery,Compute,global,374.87
+2026-06-07,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Dataflow,Orchestration,europe-west2,301.86
+2026-06-07,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Storage,Compute,global,31.09
+2026-06-07,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Composer,Compute,europe-west1,37.24
+2026-06-07,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Logging,Storage,global,85.16
+2026-06-07,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Pub/Sub,Logging,europe-west2,11.66
+2026-06-07,customer-analytics-prod,Customer Analytics,analytics.owner@company.com,12000,Cloud Functions,Storage,global,21.09
+2026-06-07,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,BigQuery,Analysis,europe-west1,344.59
+2026-06-07,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Dataflow,Logging,europe-west2,103.06
+2026-06-07,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Storage,Streaming,us-central1,114.21
+2026-06-07,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Composer,Streaming,global,138.94
+2026-06-07,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Logging,Logging,europe-west2,41.43
+2026-06-07,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Pub/Sub,Network,global,13.87
+2026-06-07,fraud-detection-prod,Fraud Engineering,fraud.owner@company.com,16000,Cloud Functions,Logging,europe-west1,42.5

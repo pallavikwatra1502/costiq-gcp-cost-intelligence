@@ -1,0 +1,7 @@
+issue,root_cause,recommendation,official_doc_url
+BigQuery high query cost,Queries scan too much data or full tables,"Partition tables, cluster tables, filter partitions, avoid SELECT *, use materialized views where suitable",https://cloud.google.com/bigquery/docs/best-practices-costs
+BigQuery storage growth,Old or unused datasets continue to incur storage cost,"Apply table expiration, partition expiration, lifecycle governance and archive policies",https://cloud.google.com/bigquery/docs/best-practices-storage
+Dataflow expensive job,"Long runtimes, high worker count or poor autoscaling increase processing cost","Review worker utilisation, enable autoscaling, optimise transforms, reduce shuffle and right-size workers",https://cloud.google.com/dataflow/docs/guides/deploying-a-pipeline#cost-optimization
+Cloud Storage cost growth,Unused objects and long retention increase storage cost,"Use lifecycle management, choose correct storage classes and delete stale data",https://cloud.google.com/storage/docs/lifecycle
+Budget alerting,Projects can exceed planned monthly spend without guardrails,"Create budgets, set threshold rules and notify owners early",https://cloud.google.com/billing/docs/how-to/budgets
+Cloud Logging cost,High-volume logs can increase ingestion and retention cost,"Use log exclusions, sinks, retention controls and route only required logs",https://cloud.google.com/logging/docs/audit/best-practices
