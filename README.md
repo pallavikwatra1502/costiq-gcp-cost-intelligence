@@ -2,6 +2,11 @@
 
 Live Demo: https://costiq-gcp-cost-intelligence.streamlit.app/
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-FinOps-green)
+![AI](https://img.shields.io/badge/AI-Powered-orange)
+
 ## Overview
 
 CostIQ is an AI-powered FinOps and Cloud Cost Intelligence platform designed to help organizations monitor, optimize and govern Google Cloud Platform spending.
